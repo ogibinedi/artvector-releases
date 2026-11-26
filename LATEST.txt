@@ -1,0 +1,5 @@
+version=v0.2.0-rc.11
+published_utc=2026-11-26T10:47:04Z
+
+7569a1c29ac813d0b27e119c73f6294875075604a85a08129876500ecec97000  artvector-0.2.0-rc.11-android-arm64.apk
+2c659f324c4ec99247cd9488eff3361db0df0e16e02f52823ed81b7f5588a492  artvector-0.2.0-rc.11-android-legacy-armeabi-v7a.apk
