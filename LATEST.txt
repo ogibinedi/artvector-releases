@@ -1,5 +1,5 @@
-version=v1.0.0-rc.1
-published_utc=2026-11-27T04:43:35Z
+version=v1.0.0-rc.2
+published_utc=2026-11-27T05:37:58Z
 
-c2766fbc60a890e78ac80bc7f051bf6db5d3baaeac5dc15f5e3eb83554aea513  artvector-1.0.0-rc.1-android-arm64.apk
-5d3b687e1c9c99c98f199d39b45493d2b24713921062b639ccaa9adb5a02c9e1  artvector-1.0.0-rc.1-android-legacy-armeabi-v7a.apk
+ce4015cde17f40b71dcc667444e797ce31bb27a4e8e30af080db196befb2f9fb  artvector-1.0.0-rc.2-android-arm64.apk
+9b9607e4b0bd28b944c2c0306ebfcf50ceadd5fd66b85e7ce06a4d6ed779d26c  artvector-1.0.0-rc.2-android-legacy-armeabi-v7a.apk
